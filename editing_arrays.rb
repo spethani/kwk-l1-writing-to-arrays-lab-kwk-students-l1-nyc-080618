@@ -18,3 +18,6 @@ def add_colors
   rainbow_colors.push("blue")
   puts rainbow_colors
 end
+
+change_rainbow_colors
+add_colors
