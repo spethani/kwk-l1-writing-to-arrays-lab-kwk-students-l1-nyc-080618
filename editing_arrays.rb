@@ -20,5 +20,5 @@ def add_colors (rainbow_colors)
   puts rainbow_colors
 end
 
-change_rainbow_colors (rainbow_colors)
+change_rainbow_colors
 add_colors (rainbow_colors)
